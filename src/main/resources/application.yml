@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springboot-drools
+drools:
+  rule-path: rules/
